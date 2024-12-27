@@ -1,7 +1,3 @@
-Sure! Below is a sample `README.md` that you can use for your repository, reflecting the context of using `sanitize-html` for sanitizing HTML content in React, along with instructions on how to set up and use the project.
-
----
-
 # React-Sanitize-HTML
 
 ## Overview
