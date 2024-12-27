@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        // "paths": {
+        //     "&/*": [
+        //         "./src/*"
+        //     ]
+        // },
+        "esModuleInterop": true,
+        "jsx": "react", // or "react-jsx" for React 17+
+        "module": "esnext", // Ensure this is set appropriately
+        "target": "esnext", // Or whatever target version you prefer
+        "moduleResolution": "node"
+    }
+}
